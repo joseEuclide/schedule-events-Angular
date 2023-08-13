@@ -1,6 +1,9 @@
 # Shedule-Events-Angular 9
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+the purpose of this Angular 9 project is to consume the idea of ​​another project in my
+repository named schedule events Backend, based on java, Apache Tomcat, Mongodb and Maven
+[Project BackEnd](https://github.com/joseEuclide/schedule-events-BACKEND) 
 
 ## Development server
 
