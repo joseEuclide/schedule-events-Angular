@@ -1,5 +1,10 @@
 # Shedule-Events-Angular 9
 
+This Project Has the Objective of Consuming the Shedule-Events-Backend API and Presenting
+the Information of the Lives already performed and to be performed in the User
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 the purpose of this Angular 9 project is to consume the idea of ​​another project in my
 repository named schedule events Backend, based on java, Apache Tomcat, Mongodb and Maven
